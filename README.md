@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SOUMARE Mouhamadou</h1>
 <h3 align="center">A passionate Web Developer from France</h3>
 
-- 🔭 I’m currently working at **Alliantech**
+- 🔭 I’m currently working at **Capgemini**
 
 - 👨‍💻 All of my projects are available at [https://mouhamadou-soumare.github.io/portfolio/](https://mouhamadou-soumare.github.io/portfolio/)
 
-- 💬 Ask me about **react,php,symfony**
+- 💬 Ask me about **react,php,symfony,node,next,react-native**
 
 - 📫 How to reach me **mouhamadou-soumare@hotmail.com**
 
